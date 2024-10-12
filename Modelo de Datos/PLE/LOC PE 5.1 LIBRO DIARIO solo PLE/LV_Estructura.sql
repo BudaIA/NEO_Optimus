@@ -1,0 +1,1 @@
+Select gll.chart_of_accounts_id from gl_ledgers gll where gll.ledger_id = :p_ledger
